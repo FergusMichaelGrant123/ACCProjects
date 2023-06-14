@@ -1,3 +1,3 @@
-var msg = 'Hellow World';
+var msg = 'Hello World';
 Console.log(msg);
 
